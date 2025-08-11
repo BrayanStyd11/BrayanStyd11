@@ -42,8 +42,7 @@
 
 ## 📫 Contacto
 - ✉️ **Email:** brayantriana22@gmail.com 
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/brayan-triana-5700b11b2/))
-- 💼 [LinkedIn](https://www.linkedin.com/)   
+- 💼 [LinkedIn](https://www.linkedin.com/in/brayan-triana-5700b11b2/)   
 
 ---
 
