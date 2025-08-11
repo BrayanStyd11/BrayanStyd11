@@ -41,9 +41,8 @@
 ---
 
 ## 📫 Contacto
-- ✉️ **Email:** tuemail@dominio.com  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🌐 [Portafolio Web](https://tusitio.com)
+- ✉️ **Email:** brayantriana22@gmail.com 
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/brayan-triana-5700b11b2/))  
 
 ---
 
