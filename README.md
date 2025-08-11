@@ -14,7 +14,7 @@
 - **Frontend:** Vue.js, Inertia.js, Tailwind CSS, Bootstrap  
 - **Backend:** Laravel, PHP, Redis, MySQL, API REST  
 - **Seguridad:** ClamAV, cifrado AES, verificación por hashes, autenticación segura  
-- **DevOps & Hosting:** DigitalOcean, Backblaze B2, Linux Server, Git, GitHub Actions  
+- **DevOps & Hosting:** Hostinger, Linux Server, Git
 - **Otros:** FilamentPHP, SEO básico, soporte técnico
 
 ---
